@@ -78,4 +78,4 @@ slmgr /xpr
 
 ---
 
-**Última Atualização:** 15/12/2025
+**Última Atualização:** 29/01/2025
